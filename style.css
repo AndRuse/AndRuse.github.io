@@ -25,6 +25,20 @@ body {
   font-family: palatino
 }
 
+div.a {
+  text-indent: 50px;
+  font-style: oblique;
+}
+
+div.titles {
+  margin-right: 100px;
+  padding: 10px 20px;
+  color: black;
+  font-weight: lighter;
+  font-style: italic;
+
+}
+
 h1 {
   background-color:rgba(106, 90, 205,0.3);
   padding-left: 200px;
@@ -34,7 +48,7 @@ h1 {
 }
 
 h3 {
-  margin-right: 600px;
+  margin-right: 100px;
   padding: 10px 20px;
   color: black;
   text-align: left;
